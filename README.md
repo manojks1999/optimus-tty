@@ -10,7 +10,7 @@
 ## Notes:
 - Always run with a virtual environment
 
-## Examples Usaces
+## Examples Usecases
 
 - Get system running time
 - List all files in current directory
